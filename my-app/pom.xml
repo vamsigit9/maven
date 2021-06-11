@@ -2,9 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.javahome</groupId>
-	<artifactId>durgasoft</artifactId>
-	<packaging>war</packaging>
-	<version>0.0.9</version>
+	<artifactId>rakesh</artifactId>
+	<packaging>jar</packaging>
+	<version>0.0.11</version>
 	<name>my-app</name>
 	
 	<!-- Demo on Github Webhooks-->
