@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>in.javahome</groupId>
 	<artifactId>durgasoft</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<version>0.0.123</version>
 	<name>my-app</name>
 	
