@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>rakesh</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.222</version>
+	<version>22.22.22</version>
 	<name>my-app</name>
 	
 	<!-- Demo on Github Webhooks-->
