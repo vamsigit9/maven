@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>test</artifactId>
 	<packaging>jar</packaging>
-	<version>22.22.44</version>
+	<version>22.44.44</version>
 	<name>my-app</name>
 	
 	<!-- Demo on Github Webhooks-->
